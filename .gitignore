@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.h5
+
+# Environment files
+.env
+venv/
