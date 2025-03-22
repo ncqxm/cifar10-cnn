@@ -21,9 +21,6 @@ This project implements a custom Convolutional Neural Network (CNN) using Tensor
 
 ## **Dataset**
 
-```markdown
-## Dataset
-
 - CIFAR-10 (60,000 images, 10 classes)
 - Available via: `tensorflow.keras.datasets.cifar10`
 
@@ -58,3 +55,13 @@ This project implements a custom Convolutional Neural Network (CNN) using Tensor
    pip install -r requirements.txt
 3. Run the notebook:
    Open cifar10_cnn.ipynb using Jupyter or Colab
+
+---
+## Trained Model
+
+The trained model is saved as `models/cifar10_cnn_v2.h5`.
+
+```python
+from tensorflow.keras.models import load_model
+
+model = load_model("models/cifar10_cnn_v2.h5")
