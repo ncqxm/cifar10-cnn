@@ -1,5 +1,7 @@
 # 🧠 CIFAR-10 Image Classification using CNN
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncqxm/cifar10-cnn/blob/main/CIFAR_10_cnn.ipynb)
+
 This project implements a custom Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images in the CIFAR-10 dataset.
 
 ---
@@ -30,11 +32,6 @@ This project implements a custom Convolutional Neural Network (CNN) using Tensor
 
 ### Training Curves  
 ![Training Metrics](images/training_metrics.png)
-
----
-
-[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1ezDaH0g8PjKTkGvH7m018tSHuichnC_O?usp=sharing))]
-(https://colab.research.google.com/github/ncqxm/cifar10-cnn/blob/main/CIFAR_10_cnn.ipynb)
 
 ---
 
