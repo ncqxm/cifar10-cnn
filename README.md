@@ -16,6 +16,13 @@ This project implements a custom Convolutional Neural Network (CNN) using Tensor
 
 ---
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-informational)
+
+---
 ## Results
 
 ### Confusion Matrix  
@@ -23,6 +30,11 @@ This project implements a custom Convolutional Neural Network (CNN) using Tensor
 
 ### Training Curves  
 ![Training Metrics](images/training_metrics.png)
+
+---
+
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1ezDaH0g8PjKTkGvH7m018tSHuichnC_O?usp=sharing))]
+(https://colab.research.google.com/github/ncqxm/cifar10-cnn/blob/main/CIFAR_10_cnn.ipynb)
 
 ---
 
