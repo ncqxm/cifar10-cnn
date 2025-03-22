@@ -16,6 +16,17 @@ This project implements a custom Convolutional Neural Network (CNN) using Tensor
   - Confusion Matrix
   - Classification Report
 
+
+---
+
+## **Dataset**
+
+```markdown
+## Dataset
+
+- CIFAR-10 (60,000 images, 10 classes)
+- Available via: `tensorflow.keras.datasets.cifar10`
+
 ---
 
 ## Tech Stack
